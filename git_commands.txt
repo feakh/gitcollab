@@ -1,6 +1,6 @@
-git add [file]
-git commit
-git push
-git log
-git branch [name]
-git checkout
+git add [file] # to add changes made in a file to the repository
+git commit # to comit changes made to a file
+git push # to push the changes made to a file from the local to the repository in github
+git log # to view a history of commands
+git branch [name] # a branch of the repository like main or other branches
+git checkout # to switch branches

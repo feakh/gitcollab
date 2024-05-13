@@ -1,0 +1,6 @@
+git add [file]
+git commit
+git push
+git log
+git branch [name]
+git checkout

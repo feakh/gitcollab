@@ -1,4 +1,4 @@
 ls -al # list contents of directory
-cp
-mv
-mkdir 
+cp # copy file
+mv # move file
+mkdir # make new directory
